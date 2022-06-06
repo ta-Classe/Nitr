@@ -1,0 +1,318 @@
+[aria-label*="The King's Lounge"]+*,
+[aria-label*="The King's Lounge"],
+[style*='818960705255899178'] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+	--server-accent: #a28b4f;
+
+	--utility-tooltip-margin: 6px;
+	--utility-tooltip-pading: 1px 8px 0px 8px;
+	--server-tooltip: block;
+	--server-tooltip-text: "Server Backgrounds Offical Server";
+	--server-badge: url("https://itsjustjoshdev.github.io/src/assets/favcon/crown.png");
+	--server-background: url("https://itsjustjoshdev.github.io/src/assets/user/banner.gif");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[aria-label*="BirdChamber"]+*,
+[style*='938570197122547842'],
+[aria-label*="BirdChamber"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: #1C1C1C; /* var(--background-secondary); */
+	--server-accent: #9984ff;
+
+	--utility-tooltip-margin: 6px;
+	--utility-tooltip-pading: 1px 8px 0px 8px;
+	--server-tooltip: block;
+	--server-tooltip-text: "KeragoSecurity";
+	--server-badge: url("https://womginx.wmeluna.repl.co/main/im_/https://media.discordapp.net/attachments/946850129619583067/948000510793891881/2f8e50eabe66d3611d30f9108984615e-origami-bird-silhouette.png");
+	--server-background: url("https://womginx.wmeluna.repl.co/main/im_/https://media.discordapp.net/attachments/946850129619583067/948000557006749756/temp1.png");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[style*='918856439202734150'],
+[aria-label*="Gradient"]+*,
+[aria-label*="Lavender"]+*,
+[aria-label*="Gradient"],
+[aria-label*="Lavender"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+	--server-accent: #51517d;
+
+	--utility-tooltip-margin: 6px;
+	--utility-tooltip-pading: 1px 8px 0px 8px;
+	--server-tooltip: block;
+	--server-tooltip-text: "Lavender Official Server";
+	--server-badge: url("https://obscure-git.github.io/Lavender/assets/logo.png");
+	--server-background: var(--server-accent);
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[style*='723660447508725802'],
+[aria-label*="The Coop"]+*,
+[aria-label*="The Coop"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: ; /* 152px */
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: ; /* url("") */
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[aria-label*="KLWP Project"]+*,
+[style*='390020191582683146'],
+[aria-label*="KLWP Project"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://i.imgur.com/uwTFn7K.png"); 
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[style*='811203761619337259'],
+[aria-label*="Comfy camp"]+*,
+[aria-label*="Comfy camp"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://github.com/NYRI4/Comfy/blob/master/assets/banner.png?raw=true");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[aria-label*="BorderShapes"]+*,
+[style*='859835827877838868'],
+[aria-label*="BorderShapes"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://media.discordapp.net/attachments/861776833190821918/885558176630603796/Server-Invite-Background.png");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[aria-label*="Pukima's Place"]+*,
+[aria-label*="Pukima's Place"],
+[style*='782245108724400128'] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://i.imgur.com/oXrPAM5.png");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[style*='379521691774353408'],
+[aria-label*="Open Styles"]+*,
+[aria-label*="Open Styles"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://i.imgur.com/JMGpcyX.png");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[aria-label*="GREEN GANG [REBORN]"]+*,
+[aria-label*="GREEN GANG [REBORN]"],
+[style*='695983588709105684'] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://i.imgur.com/Kc6mSmn.jpg");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[style*='449175561529589761'],
+[aria-label*="Black Box"]+*,
+[aria-label*="Black Box"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("http://i.picpar.com/BSwd.gif");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[style*='858830126711046177'],
+[style*='888837929789710387'],
+[aria-label*="Archcraft"]+*, 
+[aria-label*="Archcraft"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://i.imgur.com/c1eTK8b.png");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[style*='820007082937942048'],
+[aria-label*="Flashcord"]+*,
+[aria-label*="Flashcord"] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://i.imgur.com/D0F2m68.png"); /* Tehehe Don't Tell */
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[aria-label*="CreArts | Community"]+*,
+[aria-label*="CreArts | Community"],
+[style*='534376415202639903'] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+	--server-accent: rgba(205, 9, 82, 1.0); /* #000 */
+	--server-accent-extra: rgb(204, 142, 165); /* #000 */
+
+	--utility-tooltip-margin: ; /* 6px */
+	--utility-tooltip-pading: ; /* 1px 8px 0px 8px */
+	--server-tooltip: ; /* block */
+	--server-tooltip-text: ; /* "Text" */
+	--server-badge: ; /* url("") */
+	--server-background: url("https://i.imgur.com/nOPFf0m.png");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}
+
+[aria-label*="ShipGirls Community"]+*,
+[aria-label*="ShipGirls Community"],
+[style*='423116740810244097'] {
+
+	--server-background-top: 0;
+	--server-background-left: 0;
+	--server-background-height: 152px;
+	--utility-header-color: var(--background-secondary); /* var(--server-accent); */
+	--server-accent: #977a9b;
+
+	--server-background: url("https://itsjustjoshdev.github.io/src/assets/user/lanyard_banner.png");
+
+	/* CreArts v3 */
+	--utility-padding: 90px; 
+
+}

@@ -1,0 +1,62 @@
+.container-1NXEtd .scrollerBase-_bVAAt::-webkit-scrollbar-thumb {
+	background: var(--server-accent, var(--background-tertiary)) !important;
+}
+
+.container-1NXEtd .scrollerBase-_bVAAt::-webkit-scrollbar {
+	width: 5px;
+}
+
+.container-1NXEtd [class*="mention"] {
+	background-color: var(--server-accent, var(--brand-experiment)) !important;
+}
+
+.container-1NXEtd [class*="mentionsBadge"],
+.container-1NXEtd [class*="numberBadge"] {
+	background-color: var(--server-accent, var(--brand-experiment)) !important;
+	border-radius: 50% !important;
+}
+
+.container-1NXEtd .unread-36eUEm {
+	background: var(--server-accent, var(--header-primary)) !important;
+}
+
+.container-1NXEtd .iconBase-2G48Fc path {
+	fill: var(--server-accent, var(--interactive-normal)) !important;
+}
+
+.container-1NXEtd .addButtonIcon-3rJeaD polygon {
+	fill: var(--server-accent, var(--interactive-normal)) !important;
+}
+
+.container-1NXEtd .modeUnread-3Cxepe .channelName-3KPsGw {
+	color: var(--server-accent, var(--header-primary)) !important;
+}
+
+.container-1NXEtd+.panels-3wFtMD > .container-YkUktl .button-12Fmur {
+	color: var(--server-accent, var(--interactive-normal)) !important;
+}
+
+.container-1NXEtd+.panels-3wFtMD > .container-YkUktl .button-12Fmur [class*="strikethrough"] {
+	color: var(--server-accent-extra, red) !important;
+}
+
+.container-2giAcK .progressBar-2yl2pi {
+	background: var(--server-accent, var(--brand-experiment)) !important;
+}
+
+.container-1NXEtd .scrollerBase-_bVAAt,
+.container-1NXEtd .thin-31rlnD,
+.container-1NXEtd .fade-1R6FHN,
+.container-1NXEtd .scroller-1ox3I2 {
+	background: var(--utility-header-color, var(--background-secondary)) !important;
+	background-color: var(--utility-header-color, var(--background-secondary)) !important;	
+}
+
+/* CreArts idk */
+.container-1eD8xH {
+  background: var(--utility-header-color, var(--background-primary)) !important;
+}
+
+.container-1NXEtd+.panels-3wFtMD {
+	background-color: var(--utility-header-color, var(--background-secondary)) !important;
+}
